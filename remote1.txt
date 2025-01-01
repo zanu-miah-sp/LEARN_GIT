@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+remote txt
+=======
+remote text
+>>>>>>> 4308984abe37ad3173e34fd163a89e4afba61bf2
